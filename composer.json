@@ -1,0 +1,16 @@
+{
+    "name": "roxbury-se/PHPExceptions",
+    "type": "library",
+    "description": "A backup of the deprecated lorenum library 'PHPExceptions'",
+    "authors": [
+        {
+            "name": "Jimmi Johansson",
+            "email": "jimmi@roxbury.se"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "roxbury-se\\PHPExceptions\\": "src/"
+        }
+    }
+}
