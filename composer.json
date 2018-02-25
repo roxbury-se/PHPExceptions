@@ -1,7 +1,7 @@
 {
-    "name": "roxbury-se/PHPExceptions",
+    "name": "roxbury-se/php-exceptions",
     "type": "library",
-    "description": "A backup of the deprecated lorenum library 'PHPExceptions'",
+    "description": "A backup of the deprecated lorenum library 'php-exceptions'",
     "authors": [
         {
             "name": "Jimmi Johansson",
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "roxbury-se\\PHPExceptions\\": "src/"
+            "roxbury-se\\php-exceptions\\": "src/"
         }
     }
 }
